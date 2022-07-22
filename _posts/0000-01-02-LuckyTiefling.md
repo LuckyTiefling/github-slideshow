@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+<img src="https://c.tenor.com/W-nBv6ySEW8AAAAC/lilo-sticking-out-tongue.gif"</img>
 Use the left arrow to go back!
